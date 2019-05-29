@@ -7,3 +7,6 @@
 [submodule "roles/firewalld"]
 	path = roles/firewalld
 	url = git@github.com:HauptJ/ansible-role-fail2ban-firewalld.git
+[submodule "roles/helm"]
+	path = roles/helm
+	url = git@github.com:HauptJ/ansible-role-helm.git
