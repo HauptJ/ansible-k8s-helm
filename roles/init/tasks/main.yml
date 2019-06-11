@@ -1,0 +1,8 @@
+---
+
+- name: Update all existing packages
+  package:
+    name: "*"
+    state: latest
+
+# TODO: Configure non root user
