@@ -1,0 +1,12 @@
+[submodule "roles/k8s"]
+	path = roles/k8s
+	url = git@github.com:HauptJ/ansible-role-kubernetes.git
+[submodule "roles/docker"]
+	path = roles/docker
+	url = git@github.com:HauptJ/ansible-role-docker.git
+[submodule "roles/firewalld"]
+	path = roles/firewalld
+	url = git@github.com:HauptJ/ansible-role-fail2ban-firewalld.git
+[submodule "roles/helm"]
+	path = roles/helm
+	url = git@github.com:HauptJ/ansible-role-helm.git
